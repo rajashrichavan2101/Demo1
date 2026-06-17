@@ -2,3 +2,4 @@
 
 practice on different command in github
 
+command: git add, git commit, git push, git branch
